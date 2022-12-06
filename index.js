@@ -1,6 +1,7 @@
 import { writeFile, readFile } from 'node:fs';
 import { exit } from 'node:process';
-const ive = 2
+const ive = 2;
+const ive1 = 2;
 // function printName(name,age) {
 //     console.log(`Name ${name}`, `age${age}`);
 // }
